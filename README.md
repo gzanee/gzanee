@@ -18,12 +18,12 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br />
-
+https://zaneg.notion.site/Google-Concetti-di-base-del-marketing-digitale-7b26cb629f7641c4a8f84d52adb4b9b9
 #
 
 ### 📝 Latest Notes
-<img align="left" alt="Git & GitHub" width="250px" style="padding-right:10px;" src="https://imgur.com/ENTbivc.png" />
-<img align="left" alt="Google Digital Marketing" width="250px" style="padding-right:10px;" src="https://i.imgur.com/4oQKYP9.png" />
+<a href="[http://www.example.com/](https://zaneg.notion.site/Git-e-GitHub-c4c34c09d10e4fc0aef1d85f2608d8dc)"><img align="left" alt="Git & GitHub" width="250px" style="padding-right:10px;" src="https://imgur.com/ENTbivc.png" /></a>
+<a href="[http://www.example.com/](https://zaneg.notion.site/Google-Concetti-di-base-del-marketing-digitale-7b26cb629f7641c4a8f84d52adb4b9b9)"><img align="left" alt="Google Digital Marketing" width="250px" style="padding-right:10px;" src="https://i.imgur.com/4oQKYP9.png" /></a>
 <br /><br /><br /><br /><br /><br />
 
 #
