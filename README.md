@@ -1,6 +1,6 @@
 # 🧁 Giacomo Zane
 
-**`Computer engineer (SW Developer/Web Developer/IT Technician)`**
+**`Computer scientist (SW Developer/Web Developer/IT Technician)`**
 
 19-year-old male. During my days I try to combine my two greatest passions: computer science and movies (occasionally also my greatest time-waster: my girlfriend). I believe that these two concepts, although seemingly distinct, share many similarities. Both require someone to guide the process: a developer and a filmmaker. As for myself, I utilize a Notion-based [website](https://zaneg.notion.site/zaneg/Studio-5397d168246346a8930e8542325da021) to consolidate all of my notes and study materials (only in Italian).
 
